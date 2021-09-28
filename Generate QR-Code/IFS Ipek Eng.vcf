@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Salikhov;Irek;;;
+FN:Irek Salikhov
+ORG:IPEK SA - President of the Board of directors;
+TEL;type=CELL;waid=79178988888:+7 917 898-88-88
+TEL;type=WORK:+41 79 102 18 33
+TEL;type=WORK:+41 41 711 78 00
+EMAIL;type=INTERNET;type=WORK:irek.salikhov@ipek-sa.com
+item6.ADR;type=WORK:;;Via della Posta 2;Lugano;;6900;Швейцария
+END:VCARD

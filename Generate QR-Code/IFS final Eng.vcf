@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Salikhov;Irek;;;
+FN:Irek Salikhov
+ORG:Chairman of the Board of Directors JSC “Yadran”.  Ph. D. in Economics ;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@yadran-oil.ru
+TEL;type=WORK;type=VOICE;type=pref:+78435006000
+item1.ADR;type=WORK;type=pref:;;Privolnaya 2 str\, bld. 33A;Kazan;Republic of Tatarstan;420043;Россия
+item1.X-ABADR:RU
+item2.URL;type=pref:www.yadrangroup.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

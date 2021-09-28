@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Салихов;Ирек Фаритович;;;
+FN:Ирек Фаритович Салихов
+ORG:Председатель совета директоров к.э.н. АО «Ядран»;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@yadran-oil.ru
+TEL;type=WORK;type=VOICE;type=pref:+78435006000
+item1.ADR;type=WORK;type=pref:;;2-я Привольная 33А;Казань;Республика Татарстан;420043;Россия
+item1.X-ABADR:RU
+item2.URL;type=pref:www.yadrangroup.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

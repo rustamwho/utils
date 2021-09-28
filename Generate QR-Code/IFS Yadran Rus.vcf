@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Салихов;Ирек Фаритович;;;
+FN:Ирек Фаритович Салихов
+ORG:Председатель СД АО "Ядран-Ойл";
+TEL;type=CELL;type=VOICE;waid=79178988888:+7 917 898-88-88
+TEL;type=CELL;type=VOICE;waid=79178180000:+7 917 818-00-00
+TEL;type=WORK:+7 843 500-60-00
+EMAIL;type=INTERNET;type=WORK:info@yadran-oil.ru
+EMAIL;type=INTERNET;type=WORK:irek@yadran-oil.ru
+item1.ADR;type=WORK:;;2я Привольная 33а;Казань;Республика Татарстан;420043;Russia
+item2.ADR;type=WORK:;;420012 а/я 255;;;;Russia
+END:VCARD
